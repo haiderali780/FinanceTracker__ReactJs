@@ -24,7 +24,7 @@ If you'd like to contribute to the Finance Tracker, please fork the repository a
 
 
 ## Support
-If you have any questions , please contact me at haiderali782002@.com.gmail.com
+If you have any questions , please contact me at haiderali782002@gmail.com
 
 ## License
 
